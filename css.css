@@ -11,6 +11,7 @@ header{
     margin: auto;
 }
 
+
 nav{
     width: 40%;
     margin:auto;
@@ -29,10 +30,17 @@ nav{
 }
 
 .principais{
-    width: 70%;
+    width: 90%;
+    display: flex;
     margin: auto;
+    justify-content: space-around;
 }
 
-.principais img {
-    margin-right: 35px;
+.museu{
+    width: 60%;
+
+}
+.outo{
+    margin-right: 50px;
+    width: 30%;
 }
