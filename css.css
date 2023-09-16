@@ -5,16 +5,34 @@
 header{
     display: flex;
     background-color: rgb(70, 48, 17);
-    padding: 25px;
+    padding: 40px;
 }
 .logo{
+    margin: auto;
 }
 
 nav{
-    width: 50%;
+    width: 40%;
     margin:auto;
     display: flex;
     flex-wrap: wrap;
     color: rgb(150, 92, 21);
     justify-content: space-around;
+    font-size: 12px;
+}
+
+.imagens{
+    width: 100%;
+    height: 90px;
+    padding: 20px;
+    background-color: rgb(70, 48, 17);
+}
+
+.principais{
+    width: 70%;
+    margin: auto;
+}
+
+.principais img {
+    margin-right: 35px;
 }
