@@ -27,6 +27,7 @@ nav{
     height: 90px;
     padding: 20px;
     background-color: rgb(70, 48, 17);
+    margin-bottom: 380px;
 }
 
 .principais{
@@ -38,9 +39,33 @@ nav{
 
 .museu{
     width: 60%;
-
 }
 .outo{
     margin-right: 50px;
     width: 30%;
+}
+
+.bloco2{
+    background-color: blue;
+    width: 500px;
+    margin-left: 50px;
+}
+.bloco2 form input{
+    margin-left: 10px;
+    width: 50px;
+}
+.bloco2 p{
+    margin-top: 10px;
+    padding: 10px;
+    width: 40%;
+    background-color: brown;
+}
+.caixacoisasm{
+    display: flex;
+    justify-content: center;
+}
+
+.bloco{
+    margi
+    margin-left: 50px;
 }
