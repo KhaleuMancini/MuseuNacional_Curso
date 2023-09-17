@@ -46,26 +46,57 @@ nav{
 }
 
 .bloco2{
-    background-color: blue;
-    width: 500px;
-    margin-left: 50px;
+    background-color: rgb(214, 214, 195);
+    width: 27%;
+    margin-left: 60px;
+    box-sizing: border-box;
+}
+.bloco2 h3{
+    margin: 20px;
+    color:rgb(150, 92, 21);
 }
 .bloco2 form input{
     margin-left: 10px;
     width: 50px;
 }
-.bloco2 p{
-    margin-top: 10px;
-    padding: 10px;
-    width: 40%;
-    background-color: brown;
+.caixadotexto{
+    margin: auto;
+    margin-top: 25px;
+    padding: 15px;
+    width: 70%;
+    background-color: rgb(114, 98, 28);
 }
-.caixacoisasm{
-    display: flex;
-    justify-content: center;
+.caixadotexto p{
+    margin: auto;
+    padding-left: 35px;
+    color: white;
+    width: 70%;
+    font-weight: bold;
+    font-size: 20px;
+}
+.bloco2 form{
+    width: 80%;
+    margin: auto;
 }
 
-.bloco{
-    margi
-    margin-left: 50px;
+
+.caixacoisasm{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+}
+
+.blocopai{
+    width: 50%;
+    display: flex;
+    margin-left: 215px;
+}
+.bloco iframe{
+    width: 400px;
+    height: 210px;
+    
+}
+
+.video{
+    margin-right: 50px;
 }
